@@ -48,4 +48,5 @@ Program to send infinite bulk messages to contacts or groups in Whatsapp, withou
 8. You will need .ICO extension file of your logo. Once you got your icon file, in Visual Studio, from "Solution Explorer", right click on "Wa Sender" project, and click on "Properties".
    ![Visual Studio tutorial](/Github/LOGO1.png)
 9. In the opened window, under "Application" section, you can find the current icon of software in "icons and manifest" section. Click on those three dots under "icon" section. Choose your .ICO file and click on "Ok" button. Your selected icon will appear here, select it from this dropdown and save changes, and then you can close this tab.
-   ![Visual Studio tutorial](/Github/LOGO2.png) 10. Now from the "Solution Explorer", under "WaSender" project, find "Properties" section. Expand it and find "Resources.resx" file and double click on it.
+   ![Visual Studio tutorial](/Github/LOGO2.png)
+10. Now from the "Solution Explorer", under "WaSender" project, find "Properties" section. Expand it and find "Resources.resx" file and double click on it.
