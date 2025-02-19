@@ -1,0 +1,12 @@
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\ProjectCommon.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\ProjectCommon.pdb
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\KeySecurity.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\Models.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\Newtonsoft.Json.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\System.Data.SQLite.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\WebDriver.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\bin\Release\FluentValidation.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\obj\Release\ProjectCommon.dll
+C:\Users\pedro\Downloads\codecanyon-nQLikFMC-wasender-bulk-whatsapp-sender-group-sender-wahtsapp-bot\CodeHere\ProjectCommon\obj\Release\ProjectCommon.pdb
